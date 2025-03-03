@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nome": "Visita al museo", "dove": "Roma", "durata": "3 ore" },
+    { "id": 2, "nome": "Visita ai monumenti", "dove": "Venezia", "durata": "5 ore" },
+    { "id": 3, "nome": "Trekking", "dove": "Pinzolo", "durata": "" },
+    { "id": 4, "nome": "Visita al Duomo", "dove": "Milano", "durata": "2 ore" }  
+]

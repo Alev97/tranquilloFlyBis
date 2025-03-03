@@ -1,0 +1,6 @@
+[
+    { "id": 1, "compagnia": "Airpippo", "partenza": "Roma", "arrivo": "Torino", "durata": "1 ora/e" },
+    { "id": 2, "compagnia": "Wizz", "partenza": "Los Angeles", "arrivo": "Tokyo", "durata": "12 ora/e"},
+    { "id": 3, "compagnia": "PlutoAir", "partenza": "Parigi", "arrivo": "Madrid", "durata": "3 ora/e" },
+    { "id": 4, "compagnia": "Alitalia", "partenza": "Milano", "arrivo": "Atene", "durata" : ""}
+]

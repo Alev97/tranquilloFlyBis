@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nome": "PippoHotel", "luogo": "Roma", "telefono": "123654789", "email": "a@ab.it"},
+    { "id": 2, "nome": "Motel Pluto", "luogo": "Milano", "telefono": "789654123", "email": "qaz@zaq.com"},
+    { "id": 3, "nome": "Ugo b&b", "luogo": "Torino", "telefono": "", "email": "qwerty@ciao.it"},
+    { "id": 5, "nome": "Hotel Hills", "luogo": "Los Angeles", "telefono": "369852147", "email": "bho@se.com"}
+]
